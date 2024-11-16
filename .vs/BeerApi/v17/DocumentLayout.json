@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marsi\\Desktop\\BeerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|c:\\users\\marsi\\desktop\\beerapi\\service\\beerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:service\\beerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|C:\\Users\\marsi\\Desktop\\BeerApi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeerHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\BeerApi\\Service\\BeerHandlers.cs",
+              "RelativeDocumentMoniker": "Service\\BeerHandlers.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\BeerApi\\Service\\BeerHandlers.cs",
+              "RelativeToolTip": "Service\\BeerHandlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:30:07.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\BeerApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\BeerApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:27:26.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
