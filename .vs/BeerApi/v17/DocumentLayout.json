@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marsi\\Desktop\\BeerApi\\",
+  "WorkspaceRootPath": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|c:\\users\\marsi\\desktop\\beerapi\\service\\beerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|c:\\users\\marsi\\desktop\\tests\\beerapi\\service\\beerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:service\\beerhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|C:\\Users\\marsi\\Desktop\\BeerApi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|c:\\users\\marsi\\desktop\\tests\\beerapi\\service\\beerresponsecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:service\\beerresponsecontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|c:\\users\\marsi\\desktop\\tests\\beerapi\\models\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:models\\ratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|c:\\users\\marsi\\desktop\\tests\\beerapi\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|c:\\users\\marsi\\desktop\\tests\\beerapi\\models\\beerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB45CC9-7D11-43F8-B9D6-500F431E1C8E}|BeerApi.csproj|solutionrelative:models\\beerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerResponseContract.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Service\\BeerResponseContract.cs",
+              "RelativeDocumentMoniker": "Service\\BeerResponseContract.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Service\\BeerResponseContract.cs",
+              "RelativeToolTip": "Service\\BeerResponseContract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:02:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Models\\BeerDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BeerDbContext.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Models\\BeerDbContext.cs",
+              "RelativeToolTip": "Models\\BeerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:50:11.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "Models\\Beer.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Models\\Beer.cs",
+              "RelativeToolTip": "Models\\Beer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:40:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ratings.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Models\\Ratings.cs",
+              "RelativeDocumentMoniker": "Models\\Ratings.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Models\\Ratings.cs",
+              "RelativeToolTip": "Models\\Ratings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:40:27.967Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BeerHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\BeerApi\\Service\\BeerHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Service\\BeerHandlers.cs",
               "RelativeDocumentMoniker": "Service\\BeerHandlers.cs",
-              "ToolTip": "C:\\Users\\marsi\\Desktop\\BeerApi\\Service\\BeerHandlers.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Service\\BeerHandlers.cs",
               "RelativeToolTip": "Service\\BeerHandlers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T12:30:07.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\BeerApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\marsi\\Desktop\\BeerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T12:27:26.227Z"
+              "WhenOpened": "2024-11-16T12:27:26.227Z",
+              "EditorCaption": ""
             }
           ]
         }

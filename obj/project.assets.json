@@ -2564,11 +2564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marsi\\Desktop\\BeerApi\\BeerApi.csproj",
+      "projectUniqueName": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\BeerApi.csproj",
       "projectName": "BeerApi",
-      "projectPath": "C:\\Users\\marsi\\Desktop\\BeerApi\\BeerApi.csproj",
+      "projectPath": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\BeerApi.csproj",
       "packagesPath": "C:\\Users\\marsi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marsi\\Desktop\\BeerApi\\obj\\",
+      "outputPath": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marsi\\AppData\\Roaming\\NuGet\\NuGet.Config",

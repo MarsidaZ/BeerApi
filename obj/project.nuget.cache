@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aJxVWg0cSEaYwdCezBqLw3rmla8nUvHTnIo5g4uSph3XGLH+A9h56vS1N3B7+kRF3rTKltCid+gzlN8otUn+Kw==",
+  "dgSpecHash": "WIo09NBRIWln2SsCBgnqaWAVuwOxAWbwp3kC2/Rt3HCZIbqB5z1F4NY2P3JVclcb6R/gDWW1tiCOfbFdCeqJ3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marsi\\Desktop\\BeerApi\\BeerApi.csproj",
+  "projectFilePath": "C:\\Users\\marsi\\Desktop\\Tests\\BeerApi\\BeerApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marsi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\marsi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
